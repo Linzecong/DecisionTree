@@ -68,7 +68,7 @@ Tree::Tree(){
             train.push_back(aa);
         }
         cout<<"OutPut:";
-        bool aaa;
+        int aaa;
         cin>>aaa;
         data.InSertData(train,aaa);
         cout<<"Stop?"<<endl;
